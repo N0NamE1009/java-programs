@@ -13,7 +13,7 @@ public class Main {
             System.out.println("3) Contactar con marketing");
             System.out.println("4) Contactar con prensa");
             System.out.println("5) Contactar con legal");
-            System.out.println("0) Salir");
+            System.out.println("0) Salir.");
 
             opcion = consola.nextInt();
 
